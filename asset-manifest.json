@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/task-picasso/static/css/main.f7a9f582.css",
+    "main.js": "/task-picasso/static/js/main.cb5e7fee.js",
+    "index.html": "/task-picasso/index.html",
+    "main.f7a9f582.css.map": "/task-picasso/static/css/main.f7a9f582.css.map",
+    "main.cb5e7fee.js.map": "/task-picasso/static/js/main.cb5e7fee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a9f582.css",
+    "static/js/main.cb5e7fee.js"
+  ]
+}
