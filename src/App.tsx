@@ -10,7 +10,7 @@ const App = () => {
         <BrowserRouter>
             <Routes>
                 <Route path="/post/" element={<PostPage></PostPage>}/>
-                <Route path="/" element={<Posts></Posts>}/>
+                <Route path="/task-picasso" element={<Posts></Posts>}/>
             </Routes>
         </BrowserRouter>
     );

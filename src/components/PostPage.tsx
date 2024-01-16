@@ -23,7 +23,7 @@ const PostPage = () => {
                     <div>
                         <h1>{post?.title}</h1>
                         <p><b>Описание:</b> {post?.body}</p>
-                        <button onClick={()=> window.location.href = '/'}>Назад</button>
+                        <button onClick={()=> window.location.href = '/task-picasso'}>Назад</button>
                     </div>
                 </div>
             }
